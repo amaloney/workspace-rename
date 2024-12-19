@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+# You need to update where the Python script lives on your machine.
+#python /path/to/workspace_rename.py $1
